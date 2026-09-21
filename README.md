@@ -1,4 +1,4 @@
-# TurboWarp Packager
+# DenisMod Packager
 
 https://packager.turbowarp.org/
 
